@@ -1,2 +1,2 @@
 # Tec_In-Pedidos
-Para hacer una correcta instalación de SW, revisar el pdf adjunto
+Para hacer una correcta instalación del SW, revisar el pdf adjunto
